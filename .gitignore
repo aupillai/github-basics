@@ -1,0 +1,2 @@
+# to ignore temp files created by text editor and operating system
+<git config --global core.excludesfile ~/.gitignore_global>
